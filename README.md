@@ -8,7 +8,7 @@ Write a count_by_three() function that takes in a start value and finish value a
 
 Example: count_by_three(7,21) 
 ```
-	7 10 13 16 19
+7 10 13 16 19
 ```
 
 __________________________________
